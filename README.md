@@ -1,1 +1,1 @@
-# Gest-o-de-Conte-do-Web---GCW
+# Gestao-de-Conteudo-Web-GCW
